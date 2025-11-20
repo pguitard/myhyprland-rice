@@ -1,0 +1,1 @@
+stow -v -d ~/Developer/myhyprland-rice/ -t ~/.config dotfiles
